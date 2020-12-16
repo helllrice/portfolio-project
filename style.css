@@ -1031,4 +1031,9 @@ button:hover {
     textarea {
         width: 100%;
     }
+
+    .about-content {
+        margin-right: 10px;
+        width: 100%;
+    }
 }
